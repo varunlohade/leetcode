@@ -1,0 +1,40 @@
+{
+    "employee": [
+      {
+        "id": "1",
+        "Employee_ID": "1234",
+        "Designation": "Manager",
+        "Salary":"30000",
+        "experience": "4"
+      },
+      {
+        "id": "2",
+        "Employee_ID": "3232",
+        "Designation": "CEO",
+        "Salary": "4000000",
+        "experience":"3"
+      },
+      {
+        "id": "3",
+        "Employee_ID": "5353",
+        "Designation": "COO",
+        "Salary":"500000",
+        "experience":"3"
+      },
+      {
+        "id": "4",
+        "Employee_ID": "2342",
+        "Designation": "Software Engineer",
+        "Salary":"80000",
+        "experience":"1"
+      },
+      {
+        "id": "5",
+        "Employee_ID": "9889",
+        "Designation": "Test Engineer",
+        "Salary":"50000",
+        "experience":"1"
+      }
+
+    ]
+  }
