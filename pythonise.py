@@ -9,4 +9,3 @@ with open("script.json") as data_files:
             print("Salary: ",v[leng]['Salary'])
             print("Experience: ",v[leng]['experience'])
 
-#this was useless works thou
